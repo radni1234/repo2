@@ -38,4 +38,5 @@ public class KorisnikController {
 		return korisnikService.findByUsername("toma");
 	}
 		 
+	//dodat komentar u kontroleru
 }
