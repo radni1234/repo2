@@ -39,4 +39,5 @@ public class KorisnikController {
 	}
 		 
 	//dodat komentar u kontroleru
+	//dodat jos jedan komentar!!!
 }
